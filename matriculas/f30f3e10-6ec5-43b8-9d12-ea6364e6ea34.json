@@ -1,0 +1,61 @@
+{
+  "numeroM": "f30f3e10-6ec5-43b8-9d12-ea6364e6ea34",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 7,
+    "second": 19
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "adriana",
+    "apellido": "vargas",
+    "cedula": "174236589"
+  },
+  "curso": {
+    "titulo": "Programación",
+    "costo": 0.0,
+    "descripcion": "PHP Laravel"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 8,
+        "second": 44
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 8,
+        "second": 50
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 0
+      },
+      "valor": 14.1,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.366666
+}

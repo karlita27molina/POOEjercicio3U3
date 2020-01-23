@@ -1,0 +1,61 @@
+{
+  "numeroM": "ac4c867f-d7a4-41e8-806b-595486114301",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 7,
+    "second": 27
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "dani",
+    "apellido": "vargas",
+    "cedula": "7849816165"
+  },
+  "curso": {
+    "titulo": "Baile",
+    "costo": 0.0,
+    "descripcion": "Coreografías"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 1
+      },
+      "valor": 11.47,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 6
+      },
+      "valor": 17.54,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 12
+      },
+      "valor": 15.78,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.93
+}

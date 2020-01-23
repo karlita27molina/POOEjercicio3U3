@@ -1,0 +1,61 @@
+{
+  "numeroM": "07bf76d8-a3ee-4abd-a46a-ec904b0e5d5e",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 17
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "monica",
+    "apellido": "naranjo",
+    "cedula": "1710002385"
+  },
+  "curso": {
+    "titulo": "Baile",
+    "costo": 0.0,
+    "descripcion": "Coreografías"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 47
+      },
+      "valor": 18.58,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 53
+      },
+      "valor": 19.1,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 2
+      },
+      "valor": 17.58,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 18.42
+}

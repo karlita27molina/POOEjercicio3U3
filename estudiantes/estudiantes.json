@@ -1,0 +1,121 @@
+[
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de Música",
+      "Club de Fútbol"
+    ],
+    "nombre": "Fausto",
+    "apellido": "Molina",
+    "cedula": "1710002385"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Música",
+      "Club de Fútbol"
+    ],
+    "nombre": "monica",
+    "apellido": "naranjo",
+    "cedula": "1710002385"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de Andinismo",
+      "Club de Robótica",
+      "Club de Música",
+      "Club de Fútbol"
+    ],
+    "nombre": "juan",
+    "apellido": "perez",
+    "cedula": "1546879697"
+  },
+  {
+    "carrera": "Ingeniería Petroquímica",
+    "clubes": [
+      "Club de Artes Marciales",
+      "Club de Andinismo",
+      "Club de Ajedrez"
+    ],
+    "nombre": "camila",
+    "apellido": "suarez",
+    "cedula": "45665484868"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Artes Marciales",
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Música",
+      "Club de Ajedrez",
+      "Club de Fútbol"
+    ],
+    "nombre": "alex",
+    "apellido": "pachacama",
+    "cedula": "178965423"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Drama"
+    ],
+    "nombre": "alison",
+    "apellido": "tatayo",
+    "cedula": "14468464"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Música",
+      "Club de Fútbol"
+    ],
+    "nombre": "pamela",
+    "apellido": "caiza",
+    "cedula": "178523964"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Danza",
+      "Club de Música",
+      "Club de Ajedrez",
+      "Club de Fútbol"
+    ],
+    "nombre": "adriana",
+    "apellido": "vargas",
+    "cedula": "174236589"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Fútbol"
+    ],
+    "nombre": "dani",
+    "apellido": "vargas",
+    "cedula": "7849816165"
+  },
+  {
+    "carrera": "Ingeniería Petroquímica",
+    "clubes": [
+      "Club de Fútbol"
+    ],
+    "nombre": "marco",
+    "apellido": "perez",
+    "cedula": "564484964"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Música",
+      "Club de Fútbol"
+    ],
+    "nombre": "karla",
+    "apellido": "molina",
+    "cedula": "1751812726"
+  }
+]

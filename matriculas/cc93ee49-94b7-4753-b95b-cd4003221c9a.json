@@ -1,0 +1,61 @@
+{
+  "numeroM": "cc93ee49-94b7-4753-b95b-cd4003221c9a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 7,
+    "second": 34
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "marco",
+    "apellido": "perez",
+    "cedula": "564484964"
+  },
+  "curso": {
+    "titulo": "Especialización en Gestión Informática",
+    "costo": 0.0,
+    "descripcion": "Sistematizará y automatizara procesos mediante implementacion de tecnologías"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 18
+      },
+      "valor": 14.150001,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 25
+      },
+      "valor": 10.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 30
+      },
+      "valor": 11.47,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 11.873334
+}

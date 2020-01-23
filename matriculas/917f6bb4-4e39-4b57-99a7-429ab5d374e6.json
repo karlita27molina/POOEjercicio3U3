@@ -1,0 +1,61 @@
+{
+  "numeroM": "917f6bb4-4e39-4b57-99a7-429ab5d374e6",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 39
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "alex",
+    "apellido": "pachacama",
+    "cedula": "178965423"
+  },
+  "curso": {
+    "titulo": "Especialización en Gestión Informática",
+    "costo": 0.0,
+    "descripcion": "Sistematizará y automatizara procesos mediante implementacion de tecnologías"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 18
+      },
+      "valor": 16.47,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 24
+      },
+      "valor": 15.33,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 30
+      },
+      "valor": 18.63,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.81
+}

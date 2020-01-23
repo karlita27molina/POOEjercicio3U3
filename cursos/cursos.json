@@ -1,0 +1,8 @@
+[
+ {"titulo" : "Baile", "descripcion" : "Coreografías", "Costo" : 25.0},
+ {"titulo" : "Programación Orientada a Objetos", "descripcion" : "Algoritmos", "Costo" : 15.0},
+ {"titulo" : "Programación", "descripcion" : "PHP Laravel", "Costo" : 270.0},
+ {"titulo" : "Especialización en Gestión Informática", "descripcion" : "Sistematizará y automatizara procesos mediante implementacion de tecnologías", "Costo" : 256.0},
+ {"titulo" : "Bases Matemáticas", "descripcion" : "Curso básico sobre funciones y sus derivadas", "Costo" : 90.0},
+ {"titulo" : "Filosofía", "descripcion" : "Problemas de la antropologia filosófica", "Costo" : 73.0}
+]

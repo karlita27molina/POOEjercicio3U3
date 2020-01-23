@@ -1,0 +1,61 @@
+{
+  "numeroM": "7b83691f-c816-4d0a-9c2e-c8271c4ecd62",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 47
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "alison",
+    "apellido": "tatayo",
+    "cedula": "14468464"
+  },
+  "curso": {
+    "titulo": "Bases Matemáticas",
+    "costo": 0.0,
+    "descripcion": "Curso básico sobre funciones y sus derivadas"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 24
+      },
+      "valor": 17.58,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 31
+      },
+      "valor": 14.33,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 37
+      },
+      "valor": 7.86,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.256667
+}

@@ -1,0 +1,61 @@
+{
+  "numeroM": "841199cc-7aec-47dd-a0ff-d17908516d7e",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 32
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "camila",
+    "apellido": "suarez",
+    "cedula": "45665484868"
+  },
+  "curso": {
+    "titulo": "Especialización en Gestión Informática",
+    "costo": 0.0,
+    "descripcion": "Sistematizará y automatizara procesos mediante implementacion de tecnologías"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 9
+      },
+      "valor": 12.36,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 17
+      },
+      "valor": 14.85,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 26
+      },
+      "valor": 13.1,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.436666
+}

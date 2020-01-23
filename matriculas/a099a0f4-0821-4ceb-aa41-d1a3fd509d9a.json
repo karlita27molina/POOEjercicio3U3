@@ -1,0 +1,61 @@
+{
+  "numeroM": "a099a0f4-0821-4ceb-aa41-d1a3fd509d9a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 8,
+    "second": 6
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Fausto",
+    "apellido": "Molina",
+    "cedula": "1710002385"
+  },
+  "curso": {
+    "titulo": "Programación Orientada a Objetos",
+    "costo": 0.0,
+    "descripcion": "Algoritmos"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 54
+      },
+      "valor": 12.5,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 1
+      },
+      "valor": 17.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 31
+      },
+      "valor": 8.59,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.696667
+}

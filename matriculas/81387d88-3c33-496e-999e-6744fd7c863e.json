@@ -1,0 +1,61 @@
+{
+  "numeroM": "81387d88-3c33-496e-999e-6744fd7c863e",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 25
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "juan",
+    "apellido": "perez",
+    "cedula": "1546879697"
+  },
+  "curso": {
+    "titulo": "Filosofía",
+    "costo": 0.0,
+    "descripcion": "Problemas de la antropologia filosófica"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 49
+      },
+      "valor": 13.1,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 56
+      },
+      "valor": 14.85,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 2
+      },
+      "valor": 19.58,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.843333
+}
